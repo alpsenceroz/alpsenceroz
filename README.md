@@ -1,7 +1,7 @@
 ### Welcome my page 👋
 
-- :school: I'm senior CS student at Bilkent University :school:.
-- 💬 Here is my email ---> alpsencer68@gmail.com
+- :school: I'm CS MSc student at ETH Zurich :school:.
+- 💬 Here is my email ---> alpsencerozdemir@gmail.com
 - There is the place you'll see my project and I hope you'll enjoy
 <!--
 **Alpsencer68/Alpsencer68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
